@@ -1,4 +1,3 @@
-const app = require("./htmlRoute");
 
 const $noteTitle = $(".note-title");
 const $noteText = $(".note-textarea");
